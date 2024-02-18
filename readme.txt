@@ -3,7 +3,7 @@ Contributors: topdownjimmy
 Tags: social,mastodon,fediverse
 Requires at least: 2.8
 Tested up to: 6.4.3
-Stable tag: 0.1
+Stable tag: 0.1.1
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Add a rel="me" link to the head of an author page, if the author has a website set in their profile.
@@ -18,9 +18,7 @@ This can be useful for things like Mastodon URL verification.
 If an author has set their website to `https://www.example.com`, this plugin
 will add the following HTML to the `<head>` on their author page:
 
-```
-<link rel="me" href="https://social.example/@evelyn" />
-```
+	<link rel="me" href="https://social.example/@evelyn" />
 
 To verify with Mastodon etc., the author would need to use the URL to their
 Author archive page, typically something like

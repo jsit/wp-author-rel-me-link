@@ -6,14 +6,14 @@
  * Plugin URI:  https://wordpress.org/plugins/author-rel-me-link
  * Description: Adds a rel-me &lt;link&gt; to the &lt;head&gt; of author pages if they have
  * a Website set in their Profile 
- * Version:     0.1
+ * Version:     0.1.1
  * Author:      topdownjimmy
  * Author URI:  https://www.jaysitter.com
  * License:     GPLv2 or later
  * License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  * Text Domain: author-rel-me-link
  * Requires at least: 2.8
- * Tested up to: 6.1.1
+ * Tested up to: 6.4.3
  *
  * This program is free software; you can redistribute it and/or modify it under the terms of the GNU
  * General Public License version 2, as published by the Free Software Foundation. You may NOT assume
