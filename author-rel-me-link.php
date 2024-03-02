@@ -1,12 +1,11 @@
 <?php
 /**
- * Author rel-me Link
+ * Author rel=me Link
  *
  * Plugin Name: Author rel-me Link
  * Plugin URI:  https://wordpress.org/plugins/author-rel-me-link
- * Description: Adds a rel-me &lt;link&gt; to the &lt;head&gt; of author pages if they have
- * a Website set in their Profile 
- * Version:     0.1.2
+ * Description: Adds a rel-me &lt;link&gt; to the &lt;head&gt; of author pages if they have a Website set in their Profile 
+ * Version:     0.1.3
  * Author:      topdownjimmy
  * Author URI:  https://www.jaysitter.com
  * License:     GPLv2 or later

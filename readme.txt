@@ -1,9 +1,9 @@
-=== Plugin Name ===
+=== Author rel=me Link ===
 Contributors: topdownjimmy
 Tags: social,mastodon,fediverse
 Requires at least: 2.8
 Tested up to: 6.4.3
-Stable tag: 0.1.2
+Stable tag: 0.1.3
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Add a rel="me" link to the head of an author page, if the author has a website set in their profile.
