@@ -8,6 +8,8 @@ License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Add a rel="me" link to the head of an author page, if the author has a website set in their profile.
 
+== Author rel=me Link ==
+
 This plugin, when activated, will add a `<link>` to the `<head>` of an Author page with `rel="me"`, if that author has set a "Website" in their profile.
 
 This can be useful for things like Mastodon URL verification.
